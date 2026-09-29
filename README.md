@@ -19,5 +19,5 @@ Client work lives in private, self-hosted repositories. The public repositories 
 ## Contact
 
 - Website: [silverfern.be](https://silverfern.be)
-- LinkedIn: [Sam Van der Borght](https://www.linkedin.com/in/sam-van-der-borght-61853a51/)
+- LinkedIn: [Sam Van der Borght](https://www.linkedin.com/in/samvanderborght/)
 - Email: hello@silverfern.be
