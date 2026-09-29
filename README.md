@@ -14,7 +14,7 @@ Go is my main language. I started out in PHP and Java.
 
 ## Why this profile looks quiet
 
-Client work lives in private, self-hosted repositories. The public repositories here are older side projects, mostly home automation (Loxone, Modbus, Yamaha MusicCast).
+Client work lives in private, self-hosted repositories, and my older side projects are private too. That is why there is little public activity here.
 
 ## Contact
 
